@@ -1,79 +1,85 @@
-# MARK GREENBURG #
-_Houston, TX_  
-[_www.markgreenburg.com_](https://www.markgreenburg.com)  
-[_mark@markgreenburg.com_](mailto:mark@markgreenburg.com)  
-[_GitHub_](https://github.com/markgreenburg) | [_LinkedIn_](https://www.linkedin.com/in/markgreenburgjr/)  
-[_(602) 741-3706_](tel:602-741-3706)
+# Kaustubh Pathak #
+_Etawah, UP_  
+[_lintr.ee/kaus98_](https://www.lintr.ee/kaus98)  
+[_kaus.pathak@gmail.com_](mailto:kaus.pathak@gmail.com)  
+[_GitHub_](https://github.com/terminate9298) |  [_LinkedIn_](https://www.linkedin.com/in/kaus98) |  [_Kaggle_](https://www.kaggle.com/terminate9298) | 
+[_(914) 904 2316_](tel:+919149042316)
   
-> I am a software engineer who's analytical, detail-oriented, and appreciates clean, readable code. I enjoy developing with  back-end technologies such as **`Python`**/**`Flask`**, **`Node.JS`**/**`Express`**, **`MySQL`**/**`PostgreSQL`**, and **`Mongo`** / **`Mongoose`**; as well as front-end technologies such as **`React`**, **`Javascript`**, and **`JQuery`**. I have extensive experience in Operations, both as a Team Lead, and as an individual contributor overseeing business strategy at **`Google`**.
+> Data Scientist with 3+ years of experience executing data-driven Solutions to increase efficiency, accuracy and, utility of internal Data Processing. Experienced at creating deep learning models, using predictive models and Forecasting and Data mining algorithms to deliver insights and implement action-oriented solutions to real world Problems.Involved in Python open-source community and passionate about Natural Language Processing.
+I also enjoy developing with  back-end technologies such as **`Python`**/**`Flask`**, **`Python`**/**`Django`**,   **`MySQL`**/**`PostgreSQL`**, and **`Mongo`** / **`Mongoose`**; as well as front-end technologies such as  **`Javascript`** , **`SocketIO`** , **`AJAX`** , and **`JQuery`**. I have extensive experience in Operations, both as a Working in a Team , and as an individual Developer.
 
-## SELECT PROJECTS ##
-### SkillTreat ###
-#### Solo Project ####
-[GitHub](https://github.com/markgreenburg/skilltreat)  
-A full-featured eCommerce API and native mobile app frontend. API utilizes stateless authentication with JWT and includes a user registration email verification flow. API built in one week with `PostgreSQL`, `Sequelize ORM`, `Express`, and `Node.js`; mobile app built in one week with React Native. Email is sent through `Amazon SES`, and the API is deployed on an `AWS` instance running `Apache` with `SSL Encryption` through _Let's Encrypt_. Payment processing is handled in compliance with PCI using the `Stripe API`.
+## PROJECTS ##
+### COVID-19 INDIA ###
+#### VISUALIZATIONS, PREDICTIONS & FORECASTING ####
+[GitHub](HTTPS://GITHUB.COM/TERMINATE9298/CORONA-VISUALIZATION-AND-PREDICTION)  
+Visualized (`Matplotlib`, `Plotly` & `Folium`) and Explored Epidemic Models (`SIR`, `SIRD`, `SEIRD` & `SEIHRD` Model) & Time Series Model (`SARIMAX`, `ARIMA` , `Prophet`, `Theta Model`, `Holts Exponential Model`) over COVID Cases in India.
 
-### Acquisition Tracker ###
-#### Solo Project ####
-[GitHub](https://github.com/markgreenburg/acquisitiontracker)  
-A `React` + `Redux` web app that tracks buy-side mergers &amp; acquisitions deals. It  consists of a pipeline that features a fully-editable and sortable table of deals (with data validation), and a deal details view that allows more granular editing functionality for each deal.
+### MULTITASK LEARNING ###
+#### BTP PROJECT ####
+Worked under `Prof. Mahua Bhattacharya` and `Dr. Anuraj Singh` to create MultiT,
+a Library that trains Deep Learning Model with Multiple Dataset using Multitask
+Learning Concepts. Developed Over PyTorch and Embedded with Multiple Predefined Architectures.
 
-### markWith ###
-#### Lead Developer ####
-[Website](https://markwith.herokuapp.com) | [GitHub](https://github.com/markgreenburg/markwith)  
-A project built from scratch in one week with two other teammates, using `MongoDB`, `Node JS`, `Express`, `socket.io`, `Handlebars`, `JQuery`, and `Bootstrap`. Deployed on `Heroku`.  
-markWith is a collaborative Markdown editor that allows multiple users to work on the same Markdown file together in 
-real time, and renders the resulting Markdown formatting as changes are made to the document. The service is backed by a 
-RESTful API that respects three separate document-level permissions: 'logged in user', 'collaborator', and 'owner.' 
+### Movie Recommendation System ###
+#### BTP PROJECT ####
+[Website](https://rec-movies.herokuapp.com/)  
+Use Various Recommendation Technologies to Suggest New Movies to User
+According to user past Viewing History . Use Recommendation based on
+Content,Similarity ,Collabrative Filtering , Surpise Library Based, Embedding
+Based, RNN Based .
 
-### HappyFinder ###
-#### Lead Developer ####
-[Website](https://markgreenburg.com/happyhour) | [GitHub](https://github.com/markgreenburg/happyproject)  
-A project built from scratch in one week with one other developer, using `PostgreSQL`, `Python`, `Flask`, `Jinja`, and `Bootstrap`. Deployed on `AWS` with `SSL`.  
-HappyFinder is a way to easily find happy hours by time-of-day and day-of-week. The project heavily utilizes data scraping / parsing along with the Google Places / Maps, and FourSquare `APIs`.
+### SONG LYRICS GENERATOR ###
+#### NLP PROJECT | SOLO PROJECT ####
+[GitHub](HTTPS://COLAB.RESEARCH.GOOGLE.COM/DRIVE/1QOUCIAXZQEEO8GQ0MW5IYJ1KMAJ-BRFJ?USP=SHARING)  
+* Generating Lyrics using Deep Learning via LSTMs, Seq2Seq, Transformers
+and Bert Model. Implemented Char-RNN using Pytorch.
+* Lyrics Scraper from AZLyrics using Asyncio Programming, Proxy Pooling and
+Header pooling bypassing Server Securities.
 
-## EXPERIENCE ##
-### Tresona Music (Aug. 2015 - Dec. 2016) ###
-#### Head of Operations ####
-Tresona is a remote music licensing company that automates the licensing and royalty distribution process for music publishers through its web app.
-* Managed 5-person core operations team that handled $xxxK of monthly payments across thousands of publishers.
-* Developed Customer Segmentation strategies and business KPIs by analyzing customer data in `BigQuery`.
-* Developed our product strategy and roadmap in close partnership with our dev team; responsible for focusing dev resources on core business goals.
-* Researched and deployed a customer support solution with integrated KB, driving $xxxK in new business and a 20% reduction in support volume.
-* Deployed and managed `Google Analytics`, `Tag Manager`, and `Hotjar` to improve the UX of the licensing process.
+## EXPERIENCE/INTERNSHIPS ##
+### Dolhinchat (Feb 2021 - Current) ###
+#### NLP Engineer & Chatbot Developer Intern ####
+* Working in a team as an NLP Architect Chatbot expert building a chatbot
+assistants for Multiple Domain.
+* Deploying and Integrating chatbots with management dashboards, CRMs
+and Other Social Platforms.
 
-### Google Inc. (Mar. 2013 - Jul. 2015) ###
-#### Global Revenue Program Manager ####
-* Led strategy & operations for the Agency SMB sales unit, managing over $xB in annual revenue and contributing to a xx% incremental YoY growth rate.
-* Led complete program redesign across xxx reps globally to align sales incentives with customer success, working in close partnership with Eng, Sales, Marketing, and HR teams.
-* Scoped and developed Google’s next-gen internal CRM in close partnership with Dev and Sales teams, now used by xK reps globally.
-* Created automated `SQL` pipelines in `BigQuery` to score and deliver thousands of leads to the sales teams.
+### Vaidik Technologies Private Limited. (Sep 2019 - Oct 2019) ###
+#### Developer Intern ####
+* Developer - Worked on NLP Models and interfaces that can Chat with New
+Readers and Refer them to the Most Significant Article.
+* Full-stack developer - Responsibility of Companies leading Blog Site using
+Django & FireBase, Including Deployment
 
-### Google Inc. (Jun. 2012 - Mar. 2013) ###
-#### Senior Agency Strategist ####
-* Sold and supported Google's ad products to Google’s largest agency partners (Publicis, WPP, and Omnicom, and many others).
-* Promoted agency channel revenue growth through scaled client outreach & in-person quarterly marketing business reviews.
-* Responsible for driving over 10% incremental revenue growth for a $xxM portfolio
-
-### Google Inc. (Jul. 2010 - Jun. 2012) ###
-#### Agency Account Strategist ####
-* Consulted with thousands of business owners & customer marketing teams on how to improve their online marketing strategy, optimize campaigns, and deliver a higher return on investment for marketing spend. 
-* Launched a pilot program that defined Google’s engagement model for its agency partners and worked to grow the “Agency Team” from the original 2 members to over 300 members. Successfully scaled the pilot to $xB in annual managed revenue and expanded the program globally.
-
+### Shaastra Automations (Aug 2018-Nov 2018) ###
+#### Web Developer Intern    ####
+During this time, I acted as Full Stack Developer, and I designed Dynamic websites
+with various menus and multiple pages, including the Company’s main website.
 
 ### EDUCATION ###
-#### DigitalCrafts Fullstack Academy (11/2016 - 4/2017) ####
-Attended immersive development bootcamp with 700 class hours. Curriculum included full stack `Python` and `Javascript` development.
 
-##### Rails Framework - Lynda.com (2016) #####
-Completed over 30 hours of instruction and projects to develop proficiency with the `Rails` framework
+##### Atal Bihari Vajpayee Indian Institute of Information Technology and Management, Gwalior (2017 - 2022) #####
+M.Tech (Dual Degree) in Information Technology; Maintaing 7.7 GPA.
 
-##### Swarthmore College (2009) #####
-BA in Psychology with Honors in research, 3.5 GPA  
-Research published in peer-reviewed journal, Psychonomic Bulletin & Review (180 Citations)
+##### ST. Mary College, Etawah(May, 2016) #####
+Intermediate In PCM with Computer; Cum. GPA: 8.8 / 10.0
 
 
 ### Interests ###
-Things that Fly! Process automation & security.
-Certifications: Google AdWords and Analytics Certified Professional
-Languages: Czech (native), English (native)
+Code to Automate and Contribute to Open Source.
+Music🎼 and Coffee☕
+
+### Positions Of Responsibility ###
+* Maintained Developer Position in E-Cell since 2018
+* Graphic Designer in Gwalior cultural festival called Aurora which is yearly festival Organized by ABV-IIITM Gwalior. Designed posters for various events ,Facebook posts for publicity, T-Shirt designing by vector art.
+
+#### Certifications ####
+* NLP With Deep Learning (Stanford Online)
+* Deep Learning Nanodegree Program (Udacity)
+* Introduction To Deep Learning (Udemy)
+* Complete A-Z Of Machine Learning(Udemy)
+* Introduction To Machine Learning By Andrew Ng (Coursera)
+* OpenCV With Python For Image And Video Analysis (Linkedin)
+* Automate The Boring Stuff With Python (Al Sweigart)
+* Full Stack Web Developer Bootcamp (Udemy)
+
