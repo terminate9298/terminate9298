@@ -43,6 +43,7 @@ Header pooling bypassing Server Securities.
 assistants for Multiple Domain.
 * Deploying and Integrating chatbots with management dashboards, CRMs
 and Other Social Platforms.
+* Developing and Hosting Chatbot Middleware Decreasing Rasa Model size decreasing Overall Hosting Size.
 
 ### Vaidik Technologies Private Limited. (Sep 2019 - Oct 2019) ###
 #### Developer Intern ####
