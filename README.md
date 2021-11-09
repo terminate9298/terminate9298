@@ -37,7 +37,7 @@ and Bert Model. Implemented Char-RNN using Pytorch.
 Header pooling bypassing Server Securities.
 
 ## EXPERIENCE/INTERNSHIPS ##
-### Dolhinchat (Feb 2021 - Current) ###
+### Dolhinchat (Feb 2021 - Apr 2021) ###
 #### NLP Engineer & Chatbot Developer Intern ####
 * Working in a team as an NLP Architect Chatbot expert building a chatbot
 assistants for Multiple Domain.
